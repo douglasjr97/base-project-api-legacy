@@ -1,8 +1,5 @@
-import React from 'react';
-import { Routes } from 'react-router-dom';
-import Rotas from './routes';
-
-// import { Container } from './styles';
+import React from "react";
+import Rotas from "./routes";
 
 const App: React.FC = () => <Rotas />;
 
